@@ -5,3 +5,4 @@ result= num1 + num2
 result1=result+num3
 print("SUM OF NUMBERS IS", result)
 print(result1)
+print(result1)
